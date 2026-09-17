@@ -1,7 +1,5 @@
+from graphs_nzhilin import sp
 import sys
-# replace the following line with:
-# from graph_user_id import sp
-import sp
 
 if __name__ == '__main__':
     
